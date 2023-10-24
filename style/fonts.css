@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Book Antiqua';
+    font-weight: 400;
+    font-style: normal;
+    src: url('/fonts/BookAntiqua/bookantiqua.ttf');
+}
+
+@font-face {
+    font-family: 'ArialUnicodeMS';
+    font-weight: 400;
+    font-style: normal;
+    src: url('/fonts/ArialUnicodeMS/ARIALUNI.TTF');
+}
+
+
